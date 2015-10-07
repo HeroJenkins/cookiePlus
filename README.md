@@ -1,2 +1,2 @@
 # cookiePlus
-A simple cookie notification for your website
+cookiePlus is a simple cookie notification for your website.
